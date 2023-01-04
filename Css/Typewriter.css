@@ -1,0 +1,23 @@
+/*
+.wrapper2{
+  padding: 20px;
+
+  animation: animateBg 4s linear infinite;
+  background: linear-gradient(50deg,#06124a,#1b216b,#1340ab,#39a0bd,#6ee9ff,#a3ffff,#5a9296,#691769,#c25bc7,#06124a,#1b216b);
+  background-size: 1000% 100%;
+}
+@keyframes animateBg {
+  0% { background-position: 100% 0%; }
+  100% { background-position: 0% 0%; }
+}
+}
+*/
+.typeWriter{
+  font-weight: bold;
+  font-size: 21px;
+  font-family: impact;
+}
+.for{
+  color: #80006d;
+  font-family:Tahoma ;
+}
